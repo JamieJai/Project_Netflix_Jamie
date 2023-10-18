@@ -1,13 +1,12 @@
-
 <p align="middle">
     <img width="200px"; src="./icons/Netflix_Logo_PMS.png">
 </p>
 
 <h2 align='middle'> NETFLEX CLONE CODEING <h2>
+
 ---
-<p align="middle"> 
+
 > 해당 레포지토리는 교육용으로 만들어졌으며 어떠한 상업적 용도를 취하지 않습니다.
-</p>
 
 ## 🖥️ Projects!
 
@@ -106,3 +105,6 @@
     background-color: rgb(80, 80, 80);
 }
 ```
+
+### 🥁결과화면
+<img src="./2023-10-18 pm 2.48.29.png">
